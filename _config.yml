@@ -1,0 +1,14 @@
+layout_spectrum: 0.6290323
+color:
+  saturation: 0.5412377
+  lightness: 0.001338313
+  brandStrength: 0.4076492
+  rhythmicContrast: 0.5235478
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.5178345
+name: Aquanetvietstore
